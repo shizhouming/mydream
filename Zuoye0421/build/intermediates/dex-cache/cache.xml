@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85b35da2fc33b57883dd0a58bcd6760b13bcc7a3">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f86394d0a5ddf50c3fc932e8fe6d6089c759afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_e2c299c2f92d19be05aca6739abf50d229329d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2fe5bbdc741b560f54d6fc7c7d4a33572aef4e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_9b6c2a7af461f0fe598ba5ac5fc5767b948c92bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_4bdf2c4e68d56b1c0943e1cfe1cd5c4e4251aaca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_03790bb39860eb7432739ffb88b1bb29b802cab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-studio-azb\android-sdk-windowsFull\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_cd1e33832a5d0cb5d47aa9013de6ad8b9ff3c53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_4224e9a6e99318a0a5683d3628a21724e8425d39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_34bee9b4017beabbc342e3d634461009bd24ea54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55904b8b344c328efaa1a772bd1e093d7756e6aa">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e1d1d463d5019a21bfb9fde0f44d8c6471016be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_a8bfbccdbd193e2c359021c6a30f74e6c8806809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_ydhulia\Zuoye0421\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\android_ydhulia\Zuoye0421\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_b130b45c4c95672f73017f1aff4ff44ae9e701ee\classes.dex" />
+    </item>
+
+</items>
